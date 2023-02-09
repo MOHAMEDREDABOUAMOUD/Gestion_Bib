@@ -1,0 +1,54 @@
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.exe
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.deps.json
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.runtimeconfig.json
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.csproj.AssemblyReference.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.AssemblyInfoInputs.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.AssemblyInfo.cs
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.csproj.CoreCompileInputs.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.csproj.CopyComplete
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\refint\ConsoleBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.genruntimeconfig.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ref\ConsoleBib.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.exe
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.deps.json
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.runtimeconfig.json
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.pdb
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.csproj.AssemblyReference.cache
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.AssemblyInfoInputs.cache
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.AssemblyInfo.cs
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.csproj.CoreCompileInputs.cache
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.csproj.CopyComplete
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\refint\ConsoleBib.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.pdb
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.genruntimeconfig.cache
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ref\ConsoleBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.exe
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.deps.json
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.runtimeconfig.json
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleBib.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.csproj.AssemblyReference.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.AssemblyInfoInputs.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.AssemblyInfo.cs
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.csproj.CoreCompileInputs.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.csproj.CopyComplete
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\refint\ConsoleBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ConsoleBib.genruntimeconfig.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\ConsoleBib\ConsoleBib\obj\Debug\net6.0\ref\ConsoleBib.dll

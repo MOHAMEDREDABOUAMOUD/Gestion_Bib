@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\EmprunteurForms\Lister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmprunteurForms\Supprimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmpruntForms\AjouterEp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmpruntForms\ListerEp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmpruntForms\ModifierEp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmpruntForms\RechercherEp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmpruntForms\RechercherEP2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmpruntForms\SupprimerEp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmprunteurForms\AjouterE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmprunteurForms\RechercherE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EmprunteurForms\ModifierE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\OuvrageForms\AjouterO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\OuvrageForms\ListerO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\OuvrageForms\ModifierO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\OuvrageForms\RechercherO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\OuvrageForms\RechercherO2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\OuvrageForms\RechercherO3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\OuvrageForms\SupprimerO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

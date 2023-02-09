@@ -1,0 +1,190 @@
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.exe
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.deps.json
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.runtimeconfig.json
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.AssemblyReference.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfoInputs.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfo.cs
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CoreCompileInputs.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\refint\WinBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.genruntimeconfig.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\ref\WinBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CopyComplete
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.exe
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.deps.json
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.runtimeconfig.json
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.dll
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.pdb
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.dll
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.AssemblyReference.cache
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfoInputs.cache
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfo.cs
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CoreCompileInputs.cache
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CopyComplete
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.dll
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\refint\WinBib.dll
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.pdb
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.genruntimeconfig.cache
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\ref\WinBib.dll
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.GenerateResource.cache
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.Menu.resources
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+D:\Documents\S5\C\projet\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.dll
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.AjouterE.resources
+D:\Documents\S5\C\projet\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.Lister.resources
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.exe
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.deps.json
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.runtimeconfig.json
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.dll
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.pdb
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.dll
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.AssemblyReference.cache
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.AjouterE.resources
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.Lister.resources
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.Menu.resources
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.GenerateResource.cache
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfoInputs.cache
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfo.cs
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CoreCompileInputs.cache
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CopyComplete
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.dll
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\refint\WinBib.dll
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.pdb
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.genruntimeconfig.cache
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\ref\WinBib.dll
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.AjouterO.resources
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.SupprimerO.resources
+C:\Users\msii\Desktop\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmpruntForms.RechercherEp.resources
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.exe
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.deps.json
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.runtimeconfig.json
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.dll
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.pdb
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.dll
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.dll
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.AssemblyReference.cache
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.AjouterE.resources
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.Lister.resources
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmpruntForms.RechercherEp.resources
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.Menu.resources
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.AjouterO.resources
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.SupprimerO.resources
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.GenerateResource.cache
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfoInputs.cache
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfo.cs
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CoreCompileInputs.cache
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CopyComplete
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.dll
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\refint\WinBib.dll
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.pdb
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.genruntimeconfig.cache
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\ref\WinBib.dll
+D:\Documents\S5\C\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.RechercherE.resources
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.exe
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.deps.json
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.runtimeconfig.json
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.pdb
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.AssemblyReference.cache
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.AjouterE.resources
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.Lister.resources
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.RechercherE.resources
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmpruntForms.RechercherEp.resources
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.Menu.resources
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.AjouterO.resources
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.SupprimerO.resources
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.GenerateResource.cache
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfoInputs.cache
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfo.cs
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CoreCompileInputs.cache
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CopyComplete
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\refint\WinBib.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.pdb
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.genruntimeconfig.cache
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\ref\WinBib.dll
+C:\Users\msii\Desktop\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.ListerO.resources
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.AssemblyReference.cache
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.Menu.resources
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.AjouterE.resources
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.Lister.resources
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.RechercherE.resources
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmpruntForms.RechercherEp.resources
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.AjouterO.resources
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.ListerO.resources
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.SupprimerO.resources
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.GenerateResource.cache
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfoInputs.cache
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfo.cs
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CoreCompileInputs.cache
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.dll
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\refint\WinBib.dll
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.pdb
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.exe
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.deps.json
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.runtimeconfig.json
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.dll
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.pdb
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.dll
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.dll
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CopyComplete
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.genruntimeconfig.cache
+D:\Documents\S5\C\ProjetChecked\WinBib\WinBib\obj\Debug\net6.0-windows\ref\WinBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.exe
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.deps.json
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.runtimeconfig.json
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\WinBib.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.AssemblyReference.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.Menu.resources
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.AjouterE.resources
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.Lister.resources
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmprunteurForms.RechercherE.resources
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.EmpruntForms.RechercherEp.resources
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.AjouterO.resources
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.ListerO.resources
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.OuvrageForms.SupprimerO.resources
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.GenerateResource.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfoInputs.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.AssemblyInfo.cs
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CoreCompileInputs.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.csproj.CopyComplete
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\refint\WinBib.dll
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.pdb
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\WinBib.genruntimeconfig.cache
+C:\Users\msii\Desktop\3eme annee\c#\projet Bib\ProjetChecked\ProjetChecked\ProjetBib\WinBib\WinBib\obj\Debug\net6.0-windows\ref\WinBib.dll

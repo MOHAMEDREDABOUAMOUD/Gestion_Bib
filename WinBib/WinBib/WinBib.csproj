@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MetroFramework" Version="1.2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ConsoleApp1">
+      <HintPath>..\..\BibAPI\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
